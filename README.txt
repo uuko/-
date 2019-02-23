@@ -12,7 +12,6 @@
 [t_fier_new.py]:歌詞分析
 [f1combfinal2.csv]:兩個結合起來的csv數據集
 [pa_title.py]:ptt爬蟲
-[ptt_web_connect_musicclass]:ptt爬蟲跟情緒分析檔案結合檔
 [ptt_cr1228]:最終檔案
 [singer / song / result .txt ]:歌曲分析資料庫 //跟結果結合
 *************************************************************
